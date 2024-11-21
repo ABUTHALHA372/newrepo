@@ -1,0 +1,14 @@
+body{
+    border-color: blueviolet;
+}
+p{
+    justify-content: center;
+    align-items: center;
+    margin-top: 149px;
+    margin-left: 45px;
+    margin-right: 45px;
+    color:violet;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
